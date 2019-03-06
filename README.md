@@ -50,6 +50,9 @@ class ReduxDemo extends Component {
 export default ReduxDemo;
 ```
 
+## Ouptut
+![alt text](https://i.imgur.com/J6w0Bpi.png)
+
 ### Link - https://shubhamd99.github.io/react-redux
 
 
